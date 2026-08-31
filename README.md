@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ppkr17/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ppkr17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ppkr17/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/ppkr17/leetcode/tree/master/0394-decode-string) |
 ## Sorting
