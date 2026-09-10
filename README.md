@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppkr17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/ppkr17/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/ppkr17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -106,6 +108,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
@@ -136,4 +139,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppkr17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
