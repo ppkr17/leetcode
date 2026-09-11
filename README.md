@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ppkr17/leetcode/tree/master/0039-combination-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ppkr17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ppkr17/leetcode/tree/master/0496-next-greater-element-i) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ppkr17/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
