@@ -156,6 +156,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ppkr17/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ppkr17/leetcode/tree/master/0039-combination-sum) |
+| [0052-n-queens-ii](https://github.com/ppkr17/leetcode/tree/master/0052-n-queens-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ppkr17/leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/ppkr17/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
