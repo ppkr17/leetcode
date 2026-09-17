@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppkr17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ppkr17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +82,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ppkr17/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ppkr17/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ppkr17/leetcode/tree/master/0071-simplify-path) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
 |  |
