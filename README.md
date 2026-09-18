@@ -48,6 +48,7 @@
 | [0503-next-greater-element-ii](https://github.com/ppkr17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/ppkr17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Range Minimum/Maximum Query
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/ppkr17/leetcode/tree/master/0052-n-queens-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
