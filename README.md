@@ -8,6 +8,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ppkr17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/ppkr17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ppkr17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ppkr17/leetcode/tree/master/0402-remove-k-digits) |
@@ -20,6 +21,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ppkr17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ppkr17/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -139,6 +141,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ppkr17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
