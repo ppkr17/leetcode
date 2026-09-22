@@ -25,6 +25,7 @@
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/ppkr17/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ppkr17/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/ppkr17/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -85,6 +86,7 @@
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ppkr17/leetcode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -114,6 +116,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ppkr17/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ppkr17/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,4 +209,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
