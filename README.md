@@ -55,6 +55,7 @@
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/ppkr17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Range Minimum/Maximum Query
@@ -148,12 +149,14 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ppkr17/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ppkr17/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
 | ------- |
