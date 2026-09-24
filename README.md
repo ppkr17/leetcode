@@ -110,6 +110,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/ppkr17/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ppkr17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ppkr17/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -212,4 +213,20 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
