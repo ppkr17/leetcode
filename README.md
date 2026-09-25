@@ -56,6 +56,7 @@
 | [0503-next-greater-element-ii](https://github.com/ppkr17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1470-shuffle-the-array](https://github.com/ppkr17/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/ppkr17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
