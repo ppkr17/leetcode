@@ -221,6 +221,7 @@
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
+| [2235-add-two-integers](https://github.com/ppkr17/leetcode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
 |  |
