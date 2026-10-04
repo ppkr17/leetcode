@@ -66,6 +66,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ppkr17/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ppkr17/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/ppkr17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1920-build-array-from-permutation](https://github.com/ppkr17/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/ppkr17/leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -121,6 +122,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1710-maximum-units-on-a-truck](https://github.com/ppkr17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/ppkr17/leetcode/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/ppkr17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
 | ------- |
