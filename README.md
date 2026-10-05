@@ -54,6 +54,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ppkr17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/ppkr17/leetcode/tree/master/0134-gas-station) |
+| [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
@@ -163,6 +164,7 @@
 | [0045-jump-game-ii](https://github.com/ppkr17/leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
+| [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -176,6 +178,7 @@
 | [0045-jump-game-ii](https://github.com/ppkr17/leetcode/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/ppkr17/leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/ppkr17/leetcode/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -243,6 +247,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Doubly-Linked List
 |  |
