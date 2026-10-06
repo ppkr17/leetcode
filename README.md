@@ -115,6 +115,7 @@
 | [0394-decode-string](https://github.com/ppkr17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ppkr17/leetcode/tree/master/0402-remove-k-digits) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ppkr17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/ppkr17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/ppkr17/leetcode/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ppkr17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/ppkr17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/ppkr17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
