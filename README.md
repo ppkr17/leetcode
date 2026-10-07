@@ -51,6 +51,7 @@
 | [0039-combination-sum](https://github.com/ppkr17/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ppkr17/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ppkr17/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ppkr17/leetcode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ppkr17/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ppkr17/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -289,5 +291,6 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
