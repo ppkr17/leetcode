@@ -116,6 +116,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ppkr17/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ppkr17/leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ppkr17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/ppkr17/leetcode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/ppkr17/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -198,6 +199,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/ppkr17/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ppkr17/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -243,6 +245,7 @@
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/ppkr17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ppkr17/leetcode/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
