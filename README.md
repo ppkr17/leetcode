@@ -303,6 +303,7 @@
 | [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ppkr17/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/ppkr17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ppkr17/leetcode/tree/master/2235-add-two-integers) |
