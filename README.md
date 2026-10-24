@@ -310,6 +310,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/ppkr17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ppkr17/leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/ppkr17/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/ppkr17/leetcode/tree/master/2469-convert-the-temperature) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ppkr17/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bracket Sequences
@@ -385,4 +386,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ppkr17/leetcode/tree/master/0136-single-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/ppkr17/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
