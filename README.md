@@ -105,6 +105,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ppkr17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -122,6 +123,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ppkr17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -142,6 +144,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ppkr17/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
@@ -243,6 +246,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ppkr17/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -390,11 +394,13 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ppkr17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ppkr17/leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
