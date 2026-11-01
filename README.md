@@ -53,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ppkr17/leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ppkr17/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ppkr17/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ppkr17/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ppkr17/leetcode/tree/master/0057-insert-interval) |
@@ -244,6 +245,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ppkr17/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ppkr17/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ppkr17/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ppkr17/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ppkr17/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ppkr17/leetcode/tree/master/0085-maximal-rectangle) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ppkr17/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ppkr17/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
