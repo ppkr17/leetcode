@@ -77,6 +77,7 @@
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/ppkr17/leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0977-squares-of-a-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ppkr17/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ppkr17/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ppkr17/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -208,6 +209,7 @@
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/ppkr17/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0977-squares-of-a-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/ppkr17/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Linked List
@@ -236,6 +238,7 @@
 | [0344-reverse-string](https://github.com/ppkr17/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ppkr17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0977-squares-of-a-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
 | ------- |
