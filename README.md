@@ -74,6 +74,7 @@
 | [0503-next-greater-element-ii](https://github.com/ppkr17/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/ppkr17/leetcode/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ppkr17/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/ppkr17/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/ppkr17/leetcode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/ppkr17/leetcode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/ppkr17/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -335,6 +336,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/ppkr17/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
