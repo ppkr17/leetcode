@@ -66,6 +66,7 @@
 | [0135-candy](https://github.com/ppkr17/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ppkr17/leetcode/tree/master/0136-single-number) |
 | [0239-sliding-window-maximum](https://github.com/ppkr17/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -170,6 +171,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ppkr17/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ppkr17/leetcode/tree/master/0496-next-greater-element-i) |
@@ -206,6 +208,7 @@
 | [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ppkr17/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
@@ -238,6 +241,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ppkr17/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/ppkr17/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ppkr17/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ppkr17/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -335,6 +339,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/ppkr17/leetcode/tree/master/0704-binary-search) |
 ## Math
