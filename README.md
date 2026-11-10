@@ -190,6 +190,7 @@
 | [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ppkr17/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/ppkr17/leetcode/tree/master/0071-simplify-path) |
+| [0171-excel-sheet-column-number](https://github.com/ppkr17/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ppkr17/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/ppkr17/leetcode/tree/master/0344-reverse-string) |
@@ -352,6 +353,7 @@
 | [0012-integer-to-roman](https://github.com/ppkr17/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ppkr17/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ppkr17/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/ppkr17/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ppkr17/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
