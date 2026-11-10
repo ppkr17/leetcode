@@ -65,6 +65,7 @@
 | [0134-gas-station](https://github.com/ppkr17/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ppkr17/leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ppkr17/leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/ppkr17/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ppkr17/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -170,6 +171,7 @@
 | [0141-linked-list-cycle](https://github.com/ppkr17/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ppkr17/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ppkr17/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -207,6 +209,7 @@
 | [0015-3sum](https://github.com/ppkr17/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ppkr17/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ppkr17/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ppkr17/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ppkr17/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/ppkr17/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -312,6 +315,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/ppkr17/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/ppkr17/leetcode/tree/master/0621-task-scheduler) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ppkr17/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -382,6 +386,7 @@
 | [0053-maximum-subarray](https://github.com/ppkr17/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -448,4 +453,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ppkr17/leetcode/tree/master/0239-sliding-window-maximum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
