@@ -234,6 +234,7 @@
 | [0206-reverse-linked-list](https://github.com/ppkr17/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ppkr17/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/ppkr17/leetcode/tree/master/0460-lfu-cache) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ppkr17/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ppkr17/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/ppkr17/leetcode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ppkr17/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ppkr17/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1903-largest-odd-number-in-string](https://github.com/ppkr17/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/ppkr17/leetcode/tree/master/2235-add-two-integers) |
