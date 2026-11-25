@@ -397,6 +397,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ppkr17/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/ppkr17/leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/ppkr17/leetcode/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ppkr17/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -454,6 +455,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ppkr17/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ppkr17/leetcode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ppkr17/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
